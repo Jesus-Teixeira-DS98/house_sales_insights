@@ -56,8 +56,8 @@ Pensando em como resolver os problemas de negócio foram assumidas as seguintes 
 ## 3. Planejamento da Solução
 
 1. A entrega da análise será feita de duas formas: 
-  1) Base de imóveis para comprar e a base de reformas foram entregues em CSV;
-  2) Dashboard no Streamlit referente a base de compra.
+  - Base de imóveis para comprar e a base de reformas foram entregues em CSV;
+  - Dashboard no Streamlit referente a base de compra.
   
 2. Ferramentas utilizadas: 
   1)  Python
