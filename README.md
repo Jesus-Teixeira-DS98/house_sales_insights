@@ -85,8 +85,18 @@ Pensando em como resolver os problemas de negócio foram assumidas as seguintes 
     - Finalizar base de recomendação de compra.
     
    3) Processo 3: Dashboard no Streamlit:
-
+    
 ## 4. Resultados da Análise
-
+      - Total de Imóveis disponíveis para Compra: 10689
+      
 ## 5. Resultados Financeiros
-
+      - Investimento total: 4,125,953,819.0
+      - Receita prevista no melhor cenário: 5,984,438,004.65
+      - Lucro máximo da Operação: 1,858,484,185.65
+      - margem de lucro: 31%
+      
+## 6. Próximos Passos
+     - Refatorar os códigos do jupyter notebook usando list comprehensions e funções para ter um código mais performático;
+     - Refatorar o código do Dashboard; 
+     - Colocar o Dashboard em Produção;
+     - Modelar os dados para utilizar modelos de ML e melhorar as análises.
