@@ -1,4 +1,6 @@
-# house_sales_insights
+# Projeto de insights para o mercado imobiliário - Case House Rocket 
+
+![placa-imoveis-ainda-funciona](https://user-images.githubusercontent.com/104281198/181915486-2f74a14e-b6a3-4200-9272-5b4b0e38216d.jpg)
 
 ## 1. Negócio
 
