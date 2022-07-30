@@ -55,16 +55,16 @@ Pensando em como resolver os problemas de negócio foram assumidas as seguintes 
 
 ## 3. Planejamento da Solução
 
-###3.1 A entrega da análise será feita de duas formas: 
+### 3.1 A entrega da análise será feita de duas formas: 
   - Base de imóveis para comprar e a base de reformas foram entregues em CSV;
   - Dashboard no Streamlit referente a base de compra.
   
-###3.2 Ferramentas utilizadas: 
+### 3.2 Ferramentas utilizadas: 
   1)  Python
       - Jupyter Notebook;
       - Pycharm.
       
-###3.3 Etapas da Solução:
+### 3.3 Etapas da Solução:
   1) Processo 1: Coleta, Tratamento e Tranformações de Dados:
     Os dados foram entregues em CSV, então os dados foram extraídos pelo pandas;
     Converter Datatypes;
@@ -91,7 +91,7 @@ Pensando em como resolver os problemas de negócio foram assumidas as seguintes 
     Gráfico de linha: Variação do preço mediano ao longo dos anos.
     Mapa Iterativo da região.
     
-##4. Resultados da Análise:
+## 4. Resultados da Análise:
       Total de Imóveis disponíveis para Compra: 10689;
       Imóveis reformados são em média 15% mais caros;
       Segundo Semestre é o melhor período do ano, podendo vender o imóvel por até 5% mais caro;
@@ -99,12 +99,12 @@ Pensando em como resolver os problemas de negócio foram assumidas as seguintes 
       Imóveis com vista para o mar são 312% mais caros em média;
       O preço mediano dos imóveis está no seu topo histórico.
       
-##5. Resultados Financeiros:
+## 5. Resultados Financeiros:
       Investimento total: 4,125,953,819.0
       Receita prevista no melhor cenário: 5,984,438,004.65
       Lucro máximo da Operação: 1,858,484,185.65
       Margem de lucro: 31%
       
-##6. Próximos Passos:
+## 6. Próximos Passos:
      Refatorar os códigos do jupyter notebook usando list comprehensions e funções para ter um código mais performático;
      Modelar os dados para utilizar modelos de ML de sistema de recomendação ou previsão para melhorar o portifólio de imóveis.
