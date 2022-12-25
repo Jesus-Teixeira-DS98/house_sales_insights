@@ -93,20 +93,20 @@ Pensando em como resolver os problemas de negócio foram assumidas as seguintes 
     Gráfico de linha: Variação do preço mediano ao longo dos anos.
     Mapa Iterativo da região.
     
-## 4. Resultados da Análise:
-      Total de Imóveis disponíveis para Compra: 10689;
+### 4. Resultados da Análise:
+      1) Total de Imóveis disponíveis para Compra: 10689;
       Imóveis reformados são em média 15% mais caros;
       Segundo Semestre é o melhor período do ano, podendo vender o imóvel por até 5% mais caro;
       Imóveis em condições ruins são uma boa oportunidade de negócio, se forem reformados para serem revendidos;
       Imóveis com vista para o mar são 312% mais caros em média;
       O preço mediano dos imóveis está no seu topo histórico.
       
-## 5. Resultados Financeiros:
+### 5. Resultados Financeiros:
       Investimento total: 4,125,953,819.0
       Receita prevista no melhor cenário: 5,984,438,004.65
       Lucro máximo da Operação: 1,858,484,185.65
       Margem de lucro: 31%
       
-## 6. Próximos Passos:
+### 6. Próximos Passos:
      Refatorar os códigos do jupyter notebook usando list comprehensions e funções para ter um código mais performático;
      Modelar os dados para utilizar modelos de ML de sistema de recomendação ou previsão para melhorar o portifólio de imóveis.
